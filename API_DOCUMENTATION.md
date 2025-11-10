@@ -1,6 +1,6 @@
 # 📡 API Documentation
 
-Complete API reference for SmartElctro-Mart E-Commerce Platform
+Complete API reference for ShopMart E-Commerce Platform
 
 ## Base URL
 
